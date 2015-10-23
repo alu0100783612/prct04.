@@ -8,3 +8,14 @@ de Ruby (ruby helloWorld.rb) y el int́erprete interactivo del ejercicio anterio
 se diferencias el comando IRB es el interpetre de ruby que nos permite ingresar comandos o bloques de comandos para que lo ejecute Ruby mas tarde y si usamos ek interpetre de
 ruby lo ejecuta directamente.
 
+El comando IRB es el interpetre de ruby que nos permite ingresar comandos o bloques de comandos para que lo ejecute Ruby mas tarde y si usamos ek interpetre de
+ruby lo ejecuta directamente.
+
+Cu ́ales son las diferencias entre la ejecuci ́
+on del programa "Hola Mundo" con el int ́erprete
+interactivo y con pry
+
+con el comando pry creamos una gema con la cual durante el codigo vamos interactuado
+con el usuario para que introduzca los datos necesario
+para poder ejecutar el programa mientras que el interprete vamos introduciendo codigo que luego se ejecuta
+
