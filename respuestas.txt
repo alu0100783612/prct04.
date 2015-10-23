@@ -1,3 +1,10 @@
 ¿Qúe es rvm (Ruby Version Manager )?
 Es un gestor de versiones para el lenguaje de programación Ruby
 con el cual podemos controlar el desarollo de nuestro codigo en Ruby
+Cúales son las diferencias entre la ejecución del programa "Hola Mundo" cone
+de Ruby (ruby helloWorld.rb) y el int́erprete interactivo del ejercicio anterior?
+
+
+se diferencias el comando IRB es el interpetre de ruby que nos permite ingresar comandos o bloques de comandos para que lo ejecute Ruby mas tarde y si usamos ek interpetre de
+ruby lo ejecuta directamente.
+
